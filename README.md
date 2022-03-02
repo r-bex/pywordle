@@ -1,6 +1,6 @@
 ## How to play
 
-Run `python3 wordle.py` for a little CLI game.
+Run `python wordle.py` for a little CLI game.
 
 ## TODO
 
@@ -11,4 +11,4 @@ Run `python3 wordle.py` for a little CLI game.
 
 ## Test
 
-Run `pytest test.py` in root.
+In an environment with `pytest` installed, run `pytest test.py`.
